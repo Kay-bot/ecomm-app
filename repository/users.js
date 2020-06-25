@@ -70,7 +70,7 @@ class UsersRepository {
 const test = async () => {
   const repo = new UsersRepository("users.json");
 
-  await repo.create({ email: "test@test.com" });
+  await repo.update("f12be171", { password: "myPassword" });
 };
 
 test();
