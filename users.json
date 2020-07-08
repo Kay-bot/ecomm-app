@@ -1,50 +1,7 @@
 [
   {
-    "email": "test@test.com"
-  },
-  {
-    "email": "asdf@aslkdfj.com",
-    "password": "password",
-    "id": "4cad493a"
-  },
-  {
-    "email": "test1@test.com",
-    "password": "password",
-    "id": "a8a361ce"
-  },
-  {
-    "email": "test3@test.com",
-    "password": "password",
-    "id": "3ced88e5"
-  },
-  {
-    "email": "test5@test.com",
-    "password": "ca43d32660d309b48ca04a03adaf4ebd6b877eab6110de20945669276bb6fc240a662205ebb0d7d2d05fa22fb329b35aaca3cb50356f3d4f355f8b89a084ab0a.2d21ade5cf256a9d",
-    "id": "29aff662"
-  },
-  {
-    "email": "ks.kwanruan@gmail.com",
-    "password": "8b50c3a3b9c8990f9c9727d5c03381139e0fdbfc28bd9008f65f5f16e74f560c2bb8d42aadca96eb9c0951350bff653f0f24cfea418f8089fc4cc4880e866624.8588256777a5ec36",
-    "id": "81d7076d"
-  },
-  {
-    "email": "test2@ga.com.au",
-    "password": "7a621aa3fe0a84aa6f74e4cb0ad7e8bd271e27f34e4357d2df8ce2153c54ba65726c4c866ab40c279c921bba5f60bd4d6005d53cc3a2a33598ed74881b27f48c.1072f103418162b4",
-    "id": "28ae9dd0"
-  },
-  {
-    "email": "test3@test.com",
-    "password": "2a3a32a69857adbe59fb121bac8f63077f7b985eb8a292f9ccf67bb4fd9741cf0409aa50518c92e519e76360b39988d1d36d221bd70faf7e938d230046e097f6.63acaa3294abbcd7",
-    "id": "f684aa5e"
-  },
-  {
-    "email": "test3@test.com",
-    "password": "dc05c8e8cc40f32d37e6202589c0bf5b975ab8331f656ba7cf8dfa4cf262e5e47eaa82a94c13748d791523e41991bac6145197c99ef0bacbcf07bb2bd65c3fef.087b91b0ba14b6d2",
-    "id": "56f3930b"
-  },
-  {
-    "email": "eug@cbre.com.au",
-    "password": "53d3d15ff3bc7db2da9d18b45642b4eec006af2873d22d6534e54baa5e2fb7c41cd79a2490b4f590ee3dbff03eb959f2a08b01361fdced3219ebcd348190282d.6ce42204c9aec25b",
-    "id": "5d8361a1"
+    "email": "anewac@gmail.com",
+    "password": "7c9f34c25230d509c4a835083e5f5209532fc9db90d318d58843fb74ed4d40b3a336854b9dbcdac7e43da89563d901bc9266e4d7c77a1e167552fac4c9c54bd7.b19381090ea56563",
+    "id": "f84b07e5"
   }
 ]
